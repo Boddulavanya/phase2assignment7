@@ -1,0 +1,8 @@
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\bin\Debug\ConAppDisconnectedArch.exe.config
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\bin\Debug\ConAppDisconnectedArch.exe
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\bin\Debug\ConAppDisconnectedArch.pdb
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\obj\Debug\ConAppDisconnectedArch.csproj.AssemblyReference.cache
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\obj\Debug\ConAppDisconnectedArch.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\obj\Debug\ConAppDisconnectedArch.csproj.CoreCompileInputs.cache
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\obj\Debug\ConAppDisconnectedArch.exe
+D:\simplilearn\phase2\day-7\ConAppDisconnectedArch\ConAppDisconnectedArch\obj\Debug\ConAppDisconnectedArch.pdb
